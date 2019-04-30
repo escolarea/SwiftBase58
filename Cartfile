@@ -1,2 +1,2 @@
 github "NeoTeo/SwiftHex" 
-github "escolarea/SwiftGMP" 
+github "escolarea/SwiftGMP" "master"
